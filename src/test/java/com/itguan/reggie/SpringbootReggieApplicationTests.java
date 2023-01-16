@@ -51,7 +51,7 @@ class SpringbootReggieApplicationTests {
 
      @Test
     void pullTest(){
-        System.out.println("pull test");
+        System.out.println("pull test local");
     }
     
 
