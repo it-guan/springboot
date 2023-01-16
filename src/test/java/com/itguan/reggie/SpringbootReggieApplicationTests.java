@@ -44,4 +44,9 @@ class SpringbootReggieApplicationTests {
         System.out.println("branch conflict test in master");
     }
 
+    @Test
+    void pushTest(){
+        System.out.println("push test");
+    }
+
 }
