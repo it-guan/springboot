@@ -39,4 +39,9 @@ class SpringbootReggieApplicationTests {
         System.out.println("git test");
     }
 
+    @Test
+    void branchTest(){
+        System.out.println("branch test");
+    }
+
 }
