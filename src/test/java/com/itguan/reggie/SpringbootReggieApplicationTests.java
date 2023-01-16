@@ -48,10 +48,6 @@ class SpringbootReggieApplicationTests {
     void pushTest(){
         System.out.println("push test");
     }
-    
-    @Test
-    void pushTest(){
-        System.out.println("pull test");
-    }
+
 
 }
