@@ -34,4 +34,9 @@ class SpringbootReggieApplicationTests {
         SMSUtils.sendMessage("阿里云短信测试","SMS_154950909","18439566930",s);
     }
 
+    @Test
+    void gitTest(){
+        System.out.println("git test");
+    }
+
 }
