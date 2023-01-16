@@ -41,7 +41,7 @@ class SpringbootReggieApplicationTests {
 
     @Test
     void branchTest(){
-        System.out.println("branch test");
+        System.out.println("branch merge test");
     }
 
 }
